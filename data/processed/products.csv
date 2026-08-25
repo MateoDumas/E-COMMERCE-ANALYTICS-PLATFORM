@@ -1,0 +1,301 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price,launch_date,stock_units
+PROD-00001,Toys Item 001,Uncategorized,Standard,40.91,86.66,2024-12-06,598
+PROD-00002,Toys Item 002,Toys & Games,Budget,27.42,43.52,2022-02-06,923
+PROD-00003,  Books Item 003 ,Books,Standard,74.75,191.65,2024-05-09,322
+PROD-00004,Beauty Item 004,Beauty,Budget,48.0,79.43,2024-02-12,1311
+PROD-00005,Office Item 005,Office Supplies,Premium,22.06,44.78,2023-03-05,320
+PROD-00006,Office Item 006,Office Supplies,Premium,22.02,38.52,2024-12-30,1308
+PROD-00007,Office Item 007,Uncategorized,Standard,15.07,27.72,2024-12-01,925
+PROD-00008,Beauty Item 008,Beauty,Premium,36.59,85.7,2022-03-07,1360
+PROD-00009,Home Item 009,Home & Kitchen,Premium,31.33,45.61,2024-09-21,699
+PROD-00010,Home Item 010,Home & Kitchen,Premium,11.31,18.15,2023-06-01,819
+PROD-00011,  Electronics Item 011 ,Electronics,Standard,20.08,38.72,2023-08-12,426
+PROD-00012,Electronics Item 012,Electronics,Budget,24.77,49.4,2024-03-27,531
+PROD-00013,Books Item 013,Books,Standard,49.55,100.29,2024-10-10,389
+PROD-00014,  Home Item 014 ,Home & Kitchen,Premium,13.03,21.13,2022-11-02,610
+PROD-00015,Books Item 015,Books,Standard,47.2,77.18,2022-01-27,1396
+PROD-00016,Office Item 016,Office Supplies,Premium,33.47,1483.6499999999908,2022-07-27,1175
+PROD-00017,Office Item 017,Office Supplies,Premium,10.91,19.94,2022-01-01,247
+PROD-00018,  Clothing Item 018 ,Clothing,Premium,18.49,37.93,2022-04-29,401
+PROD-00019,Toys Item 019,Toys & Games,Standard,36.82,95.15,2023-01-04,1250
+PROD-00020,Clothing Item 020,Clothing,Budget,23.26,38.11,2024-03-19,1266
+PROD-00021,Books Item 021,Books,Premium,55.75,83.0,2024-06-06,169
+PROD-00022,Toys Item 022,Toys & Games,Standard,52.72,81.14,2024-05-10,562
+PROD-00023,Office Item 023,Office Supplies,Premium,36.98,54.59,2022-03-01,1000
+PROD-00024,  Sports Item 024 ,Sports & Outdoors,Standard,54.05,96.76,2023-01-10,907
+PROD-00025,Beauty Item 025,Beauty,Standard,49.27,96.9,2024-01-21,276
+PROD-00026,Electronics Item 026,Electronics,Budget,66.53,150.08,2023-05-23,217
+PROD-00027,Sports Item 027,Sports & Outdoors,Premium,37.67,75.06,2022-01-11,154
+PROD-00028,Toys Item 028,Toys & Games,Premium,73.18,140.0,2024-12-10,453
+PROD-00029,Home Item 029,Home & Kitchen,Premium,31.72,63.77,2023-11-08,324
+PROD-00030,Electronics Item 030,Electronics,Premium,24.65,41.88,2024-10-05,604
+PROD-00031,Clothing Item 031,Clothing,Budget,70.93,105.85,2024-02-24,773
+PROD-00032,Books Item 032,Books,Premium,21.25,33.86,2022-03-19,1126
+PROD-00033,Toys Item 033,Toys & Games,Premium,52.25,84.85,2023-08-31,303
+PROD-00034,Sports Item 034,Sports & Outdoors,Premium,36.92,75.58,2024-03-25,1005
+PROD-00035,Home Item 035,Home & Kitchen,Premium,18.72,35.8,2022-09-25,615
+PROD-00036,Toys Item 036,Toys & Games,Budget,24.18,58.83,2023-06-01,575
+PROD-00037,Office Item 037,Office Supplies,Premium,30.1,50.16,2022-03-20,779
+PROD-00038,Electronics Item 038,Electronics,Standard,25.73,46.45,2022-05-06,880
+PROD-00039,Office Item 039,Office Supplies,Budget,27.0,60.58,2023-05-01,1006
+PROD-00040,Office Item 040,Office Supplies,Budget,38.67,99.23,2024-12-24,1266
+PROD-00041,  Home Item 041 ,Home & Kitchen,Premium,8.21,11.86,2023-06-08,250
+PROD-00042,Clothing Item 042,Clothing,Premium,29.49,59.07,2022-05-03,940
+PROD-00043,Home Item 043,Home & Kitchen,Budget,26.46,52.59,2022-02-22,1031
+PROD-00044,Books Item 044,Books,Standard,36.31,61.38,2024-12-27,1474
+PROD-00045,  Electronics Item 045 ,Electronics,Budget,59.3,134.84,2022-08-03,1342
+PROD-00046,Clothing Item 046,Clothing,Standard,47.57,102.69,2022-05-05,706
+PROD-00047,Toys Item 047,Toys & Games,Standard,43.17,103.71,2024-08-10,1306
+PROD-00048,Toys Item 048,Toys & Games,Budget,100.93,163.89,2023-11-09,1104
+PROD-00049,Beauty Item 049,Beauty,Standard,31.98,45.41,2024-01-17,921
+PROD-00050,Electronics Item 050,Electronics,Premium,21.46,35.88,2023-04-06,816
+PROD-00051,Office Item 051,Office Supplies,Budget,14.56,27.14,2023-10-18,1296
+PROD-00052,Books Item 052,Books,Standard,40.34,63.13,2022-06-20,42
+PROD-00053,Sports Item 053,Sports & Outdoors,Budget,17.69,43.39,2024-09-16,1083
+PROD-00054,Books Item 054,Books,Budget,24.27,60.72,2024-04-03,644
+PROD-00055,Home Item 055,Home & Kitchen,Premium,28.74,58.6,2022-03-30,1101
+PROD-00056,Electronics Item 056,Electronics,Standard,64.82,160.54,2023-10-09,438
+PROD-00057,Sports Item 057,Sports & Outdoors,Standard,35.38,64.36,2023-03-11,50
+PROD-00058,Books Item 058,Books,Budget,48.4,119.86,2022-12-23,53
+PROD-00059,Office Item 059,Office Supplies,Premium,35.17,52.79,2022-01-05,48
+PROD-00060,Home Item 060,Home & Kitchen,Standard,37.33,92.51,2024-08-17,715
+PROD-00061,Beauty Item 061,Beauty,Standard,36.12,57.54,2024-07-03,711
+PROD-00062,Sports Item 062,Sports & Outdoors,Budget,18.56,41.39,2024-06-08,595
+PROD-00063,Clothing Item 063,Uncategorized,Standard,13.3,1120.5,2023-03-08,1083
+PROD-00064,Home Item 064,Home & Kitchen,Standard,28.74,103.29,2022-06-15,213
+PROD-00065,Office Item 065,Office Supplies,Premium,53.68,111.76,2023-02-19,107
+PROD-00066,Sports Item 066,Sports & Outdoors,Standard,38.88,71.59,2024-11-04,335
+PROD-00067,Clothing Item 067,Clothing,Standard,16.43,30.75,2022-12-25,795
+PROD-00068,Sports Item 068,Sports & Outdoors,Budget,17.3,37.32,2023-05-24,59
+PROD-00069,  Electronics Item 069 ,Electronics,Budget,30.25,60.23,2023-06-13,1133
+PROD-00070,Electronics Item 070,Electronics,Budget,70.03,158.75,2024-11-21,1461
+PROD-00071,Toys Item 071,Toys & Games,Budget,14.47,36.82,2022-06-11,219
+PROD-00072,Home Item 072,Home & Kitchen,Standard,40.56,74.8,2024-10-25,42
+PROD-00073,  Books Item 073 ,Books,Standard,40.33,97.74,2023-04-20,123
+PROD-00074,  Toys Item 074 ,Toys & Games,Standard,28.62,53.29,2024-08-09,990
+PROD-00075,Home Item 075,Home & Kitchen,Premium,22.31,46.14,2022-07-24,273
+PROD-00076,  Office Item 076 ,Office Supplies,Premium,50.52,112.92,2024-04-08,1057
+PROD-00077,  Clothing Item 077 ,Clothing,Premium,16.49,42.68,2024-12-23,194
+PROD-00078,Office Item 078,Office Supplies,Standard,33.1,66.93,2024-05-28,477
+PROD-00079,Beauty Item 079,Beauty,Premium,37.59,84.31,2022-06-24,683
+PROD-00080,Home Item 080,Home & Kitchen,Standard,42.51,74.49,2024-09-18,413
+PROD-00081,Office Item 081,Office Supplies,Premium,41.36,62.245,2022-05-29,25
+PROD-00082,Office Item 082,Office Supplies,Premium,41.33,82.74,2024-03-19,1093
+PROD-00083,Toys Item 083,Toys & Games,Budget,42.76,100.7,2024-06-06,561
+PROD-00084,Toys Item 084,Toys & Games,Budget,59.07,106.66,2023-09-22,206
+PROD-00085,Books Item 085,Books,Standard,17.82,25.72,2023-04-27,716
+PROD-00086,Books Item 086,Books,Standard,25.69,52.69,2023-11-19,392
+PROD-00087,Office Item 087,Office Supplies,Standard,45.78,66.14,2023-01-16,702
+PROD-00088,Home Item 088,Home & Kitchen,Standard,9.97,18.27,2024-07-29,909
+PROD-00089,Toys Item 089,Toys & Games,Budget,31.27,51.88,2024-10-03,1469
+PROD-00090,Office Item 090,Office Supplies,Premium,14.4,21.63,2024-02-05,181
+PROD-00091,Toys Item 091,Toys & Games,Budget,30.89,77.57,2024-03-01,69
+PROD-00092,Sports Item 092,Uncategorized,Budget,19.39,49.85,2022-11-26,1368
+PROD-00093,  Sports Item 093 ,Sports & Outdoors,Budget,7.72,13.32,2024-09-10,61
+PROD-00094,Clothing Item 094,Clothing,Standard,33.79,50.49,2022-02-04,1259
+PROD-00095,Beauty Item 095,Uncategorized,Budget,41.11,66.1,2022-05-07,1390
+PROD-00096,Office Item 096,Office Supplies,Budget,50.79,86.36,2022-06-07,719
+PROD-00097,Clothing Item 097,Clothing,Budget,82.14,142.59,2024-02-18,1491
+PROD-00098,Sports Item 098,Sports & Outdoors,Premium,38.69,88.43,2023-04-03,118
+PROD-00099,  Books Item 099 ,Books,Standard,97.73,165.87,2024-10-03,309
+PROD-00100,Beauty Item 100,Beauty,Budget,55.8,128.87,2024-05-07,154
+PROD-00101,Clothing Item 101,Clothing,Standard,39.62,60.12,2023-12-07,1406
+PROD-00102,Sports Item 102,Sports & Outdoors,Premium,48.2,94.87,2024-10-31,596
+PROD-00103,Clothing Item 103,Clothing,Standard,25.42,54.37,2022-09-15,1399
+PROD-00104,Electronics Item 104,Electronics,Standard,12.79,18.6,2023-01-15,1121
+PROD-00105,Clothing Item 105,Clothing,Standard,69.58,168.93,2024-04-16,814
+PROD-00106,Electronics Item 106,Electronics,Budget,11.23,17.92,2023-01-31,54
+PROD-00107,Electronics Item 107,Electronics,Standard,34.06,71.63,2022-06-21,1308
+PROD-00108,Sports Item 108,Uncategorized,Standard,20.09,42.0,2023-02-14,561
+PROD-00109,Sports Item 109,Sports & Outdoors,Standard,75.01,112.51500000000001,2023-05-27,658
+PROD-00110,Toys Item 110,Toys & Games,Budget,12.87,23.98,2022-05-06,1418
+PROD-00111,  Office Item 111 ,Office Supplies,Standard,35.85,63.91,2023-05-25,582
+PROD-00112,Office Item 112,Office Supplies,Premium,19.78,28.24,2023-08-27,1436
+PROD-00113,Books Item 113,Books,Premium,20.24,45.26,2024-05-19,949
+PROD-00114,  Toys Item 114 ,Toys & Games,Premium,50.33,123.46,2022-07-13,1099
+PROD-00115,Office Item 115,Office Supplies,Budget,49.28,79.49,2023-08-18,494
+PROD-00116,Electronics Item 116,Electronics,Budget,44.28,104.86,2024-04-13,585
+PROD-00117,Office Item 117,Office Supplies,Standard,29.6,69.02,2022-09-25,1234
+PROD-00118,Sports Item 118,Sports & Outdoors,Premium,32.34,81.4,2024-03-11,1081
+PROD-00119,Sports Item 119,Sports & Outdoors,Budget,26.02,59.99,2023-09-11,1070
+PROD-00120,Office Item 120,Office Supplies,Premium,57.89,143.74,2022-12-19,1195
+PROD-00121,Beauty Item 121,Beauty,Premium,64.76,160.26,2024-05-11,1376
+PROD-00122,Home Item 122,Home & Kitchen,Budget,30.41,42.97,2022-03-24,1139
+PROD-00123,Books Item 123,Books,Standard,36.82,76.88,2023-06-27,1077
+PROD-00124,  Home Item 124 ,Home & Kitchen,Standard,27.56,53.41,2022-10-14,897
+PROD-00125,Office Item 125,Office Supplies,Premium,15.14,34.87,2023-04-03,209
+PROD-00126,Home Item 126,Home & Kitchen,Standard,13.09,30.73,2024-12-03,196
+PROD-00127,Home Item 127,Home & Kitchen,Budget,29.76,61.29,2024-08-10,805
+PROD-00128,Toys Item 128,Toys & Games,Premium,16.34,40.28,2023-06-29,14
+PROD-00129,Books Item 129,Books,Premium,17.18,39.75,2024-06-24,516
+PROD-00130,Books Item 130,Books,Standard,24.28,36.94,2024-05-21,698
+PROD-00131,Home Item 131,Home & Kitchen,Premium,35.05,83.64,2023-09-14,821
+PROD-00132,Toys Item 132,Toys & Games,Budget,21.41,32.06,2023-11-10,235
+PROD-00133,Toys Item 133,Toys & Games,Budget,11.14,28.26,2022-12-31,136
+PROD-00134,Office Item 134,Office Supplies,Standard,19.22,44.83,2022-05-28,944
+PROD-00135,  Clothing Item 135 ,Clothing,Premium,66.67,127.28,2024-01-31,1408
+PROD-00136,Home Item 136,Home & Kitchen,Budget,24.59,36.09,2023-09-01,671
+PROD-00137,Books Item 137,Books,Budget,29.91,46.09,2024-07-19,59
+PROD-00138,  Beauty Item 138 ,Beauty,Premium,63.58,162.42,2022-02-17,725
+PROD-00139,Office Item 139,Office Supplies,Standard,48.1,83.83,2023-11-13,1452
+PROD-00140,  Electronics Item 140 ,Electronics,Standard,23.93,33.85,2024-05-01,859
+PROD-00141,Books Item 141,Books,Budget,39.95,58.0,2024-07-30,1060
+PROD-00142,Books Item 142,Books,Premium,31.37,46.7,2023-04-08,1117
+PROD-00143,Sports Item 143,Sports & Outdoors,Premium,54.29,139.15,2023-01-02,934
+PROD-00144,Toys Item 144,Toys & Games,Premium,105.04,204.35,2024-10-11,1097
+PROD-00145,Sports Item 145,Sports & Outdoors,Premium,38.72,81.36,2023-12-19,1242
+PROD-00146,  Books Item 146 ,Books,Budget,27.91,48.36,2022-12-28,1304
+PROD-00147,Home Item 147,Home & Kitchen,Standard,54.07,105.78,2024-01-13,259
+PROD-00148,Books Item 148,Books,Budget,55.8,143.37,2022-09-01,792
+PROD-00149,Electronics Item 149,Electronics,Budget,37.22,88.46,2023-01-23,746
+PROD-00150,  Sports Item 150 ,Sports & Outdoors,Standard,86.77,138.41,2022-08-09,997
+PROD-00151,Toys Item 151,Toys & Games,Budget,12.16,29.66,2023-12-24,637
+PROD-00152,Toys Item 152,Toys & Games,Premium,84.88,121.52,2023-06-21,202
+PROD-00153,Clothing Item 153,Clothing,Budget,60.5,95.62,2022-08-12,66
+PROD-00154,Clothing Item 154,Clothing,Standard,21.97,40.8,2024-08-05,455
+PROD-00155,Clothing Item 155,Clothing,Budget,27.85,48.13,2022-12-13,1181
+PROD-00156,Sports Item 156,Sports & Outdoors,Standard,62.45,152.23,2024-11-30,512
+PROD-00157,Books Item 157,Books,Budget,30.1,76.26,2022-01-17,1380
+PROD-00158,Clothing Item 158,Clothing,Premium,30.92,52.47,2024-07-28,972
+PROD-00159,Clothing Item 159,Clothing,Premium,14.5,30.85,2024-06-25,1003
+PROD-00160,Clothing Item 160,Clothing,Standard,27.34,60.31,2024-02-28,1325
+PROD-00161,Beauty Item 161,Beauty,Premium,10.51,23.18,2022-01-10,1209
+PROD-00162,Clothing Item 162,Clothing,Budget,63.8,148.45,2024-07-12,577
+PROD-00163,Books Item 163,Books,Standard,60.5,125.42,2023-06-01,28
+PROD-00164,Electronics Item 164,Electronics,Budget,31.33,59.03,2023-01-29,58
+PROD-00165,Home Item 165,Uncategorized,Premium,44.7,74.0,2022-04-02,824
+PROD-00166,Books Item 166,Uncategorized,Premium,66.97,94.93,2024-03-07,667
+PROD-00167,  Books Item 167 ,Books,Premium,56.61,108.97,2022-11-13,1422
+PROD-00168,Sports Item 168,Uncategorized,Standard,38.885,58.3275,2024-05-11,515
+PROD-00169,Beauty Item 169,Beauty,Premium,71.84,107.76,2024-05-01,1310
+PROD-00170,Beauty Item 170,Beauty,Budget,31.46,79.89,2024-07-16,265
+PROD-00171,Electronics Item 171,Electronics,Premium,9.39,24.19,2023-05-03,1126
+PROD-00172,Toys Item 172,Toys & Games,Standard,28.94,77.57,2024-05-09,365
+PROD-00173,Toys Item 173,Toys & Games,Premium,12.29,19.11,2022-01-28,1135
+PROD-00174,  Electronics Item 174 ,Electronics,Standard,45.34,71.74,2022-02-22,1370
+PROD-00175,Clothing Item 175,Clothing,Budget,37.79,68.58,2024-11-13,27
+PROD-00176,Electronics Item 176,Electronics,Budget,15.86,31.22,2023-05-22,0
+PROD-00177,Electronics Item 177,Electronics,Standard,15.36,22.26,2023-02-04,934
+PROD-00178,Home Item 178,Home & Kitchen,Budget,41.09,71.26,2024-03-24,1072
+PROD-00179,Office Item 179,Office Supplies,Budget,27.98,51.4,2022-11-25,1483
+PROD-00180,Home Item 180,Home & Kitchen,Premium,14.83,33.05,2023-01-26,20
+PROD-00181,Office Item 181,Office Supplies,Premium,18.75,46.97,2022-05-06,1110
+PROD-00182,  Clothing Item 182 ,Clothing,Standard,34.38,59.55,2022-12-15,340
+PROD-00183,Sports Item 183,Sports & Outdoors,Budget,43.88,72.46,2024-08-15,775
+PROD-00184,Toys Item 184,Toys & Games,Premium,47.73,94.57,2022-08-20,750
+PROD-00185,Books Item 185,Books,Premium,10.64,24.44,2023-12-15,1427
+PROD-00186,  Clothing Item 186 ,Clothing,Budget,66.91,113.94,2022-05-02,912
+PROD-00187,Electronics Item 187,Uncategorized,Budget,42.91,87.47,2022-09-17,930
+PROD-00188,Home Item 188,Home & Kitchen,Budget,36.52,70.74,2022-12-08,1422
+PROD-00189,Books Item 189,Books,Premium,10.01,18.55,2024-04-17,443
+PROD-00190,  Beauty Item 190 ,Beauty,Budget,34.15,61.01,2023-05-02,627
+PROD-00191,Home Item 191,Home & Kitchen,Budget,19.45,48.01,2024-03-10,410
+PROD-00192,Office Item 192,Office Supplies,Budget,14.36,31.81,2023-07-06,1261
+PROD-00193,Beauty Item 193,Beauty,Standard,29.85,1483.6499999999908,2022-07-01,108
+PROD-00194,Home Item 194,Home & Kitchen,Budget,71.01,162.93,2023-04-16,491
+PROD-00195,Beauty Item 195,Beauty,Standard,14.81,27.19,2024-12-10,1032
+PROD-00196,Beauty Item 196,Beauty,Standard,26.49,55.23,2022-11-01,1055
+PROD-00197,  Sports Item 197 ,Sports & Outdoors,Standard,11.52,18.24,2024-03-30,1341
+PROD-00198,Sports Item 198,Sports & Outdoors,Budget,42.56,67.79,2024-11-22,1247
+PROD-00199,Clothing Item 199,Clothing,Standard,20.19,49.99,2022-06-17,1357
+PROD-00200,Electronics Item 200,Uncategorized,Standard,16.72,33.93,2023-10-20,1136
+PROD-00201,Office Item 201,Office Supplies,Standard,35.61,66.86,2023-03-02,37
+PROD-00202,Home Item 202,Home & Kitchen,Budget,29.04,70.82,2024-04-18,176
+PROD-00203,Books Item 203,Books,Budget,20.41,44.95,2022-04-27,1385
+PROD-00204,Books Item 204,Books,Premium,47.67,98.59,2024-05-27,958
+PROD-00205,Beauty Item 205,Beauty,Budget,9.6,15.59,2022-11-18,1335
+PROD-00206,Electronics Item 206,Electronics,Premium,42.07,80.38,2024-08-08,1220
+PROD-00207,Clothing Item 207,Clothing,Standard,9.87,21.05,2023-11-04,539
+PROD-00208,  Clothing Item 208 ,Clothing,Premium,30.94,64.9,2022-09-05,969
+PROD-00209,Home Item 209,Home & Kitchen,Budget,28.74,42.02,2023-07-27,690
+PROD-00210,Books Item 210,Books,Budget,13.12,60.72,2024-09-17,553
+PROD-00211,Books Item 211,Books,Premium,54.99,121.96,2022-04-01,1180
+PROD-00212,  Home Item 212 ,Home & Kitchen,Standard,28.74,43.16,2023-01-12,1131
+PROD-00213,  Toys Item 213 ,Toys & Games,Standard,33.28,49.92,2022-02-15,1010
+PROD-00214,Home Item 214,Home & Kitchen,Premium,17.53,44.84,2022-04-25,1141
+PROD-00215,Electronics Item 215,Electronics,Standard,37.9,61.3,2024-07-24,42
+PROD-00216,Clothing Item 216,Clothing,Budget,20.03,45.86,2024-10-16,584
+PROD-00217,Sports Item 217,Sports & Outdoors,Budget,60.12,141.54,2023-10-22,914
+PROD-00218,Beauty Item 218,Beauty,Budget,35.26,56.29,2022-10-28,1346
+PROD-00219,Home Item 219,Home & Kitchen,Standard,38.44,77.94,2023-12-06,1428
+PROD-00220,Beauty Item 220,Beauty,Budget,22.7,55.67,2024-05-13,1024
+PROD-00221,Electronics Item 221,Electronics,Budget,61.22,113.4,2023-07-04,869
+PROD-00222,  Electronics Item 222 ,Electronics,Premium,22.9,40.34,2022-08-01,695
+PROD-00223,Clothing Item 223,Clothing,Premium,30.36,75.28,2023-03-09,778
+PROD-00224,Home Item 224,Home & Kitchen,Standard,78.54,161.18,2023-01-19,600
+PROD-00225,  Books Item 225 ,Books,Standard,34.85,88.09,2022-03-18,9
+PROD-00226,Home Item 226,Home & Kitchen,Standard,48.1,86.67,2022-08-26,1171
+PROD-00227,Electronics Item 227,Electronics,Standard,37.14,75.77,2024-07-07,284
+PROD-00228,  Books Item 228 ,Books,Budget,22.79,2673.5,2023-07-06,870
+PROD-00229,Electronics Item 229,Electronics,Budget,22.12,50.72,2024-01-07,968
+PROD-00230,Office Item 230,Office Supplies,Premium,16.89,35.2,2023-08-12,1090
+PROD-00231,Office Item 231,Office Supplies,Standard,40.47,96.54,2023-08-15,938
+PROD-00232,Toys Item 232,Toys & Games,Premium,37.03,89.45,2022-04-22,1405
+PROD-00233,Sports Item 233,Sports & Outdoors,Standard,25.13,39.7,2024-06-19,270
+PROD-00234,Electronics Item 234,Electronics,Budget,15.43,34.98,2022-07-13,1381
+PROD-00235,Electronics Item 235,Electronics,Premium,50.9,104.41,2024-05-05,511
+PROD-00236,Books Item 236,Books,Budget,66.51,120.7,2024-07-31,629
+PROD-00237,Clothing Item 237,Uncategorized,Budget,38.885,58.3275,2022-01-30,540
+PROD-00238,Home Item 238,Home & Kitchen,Premium,71.6,150.61,2022-11-12,321
+PROD-00239,Sports Item 239,Sports & Outdoors,Premium,113.57,277.85,2023-10-10,1154
+PROD-00240,  Office Item 240 ,Office Supplies,Standard,32.59,67.73,2024-07-24,510
+PROD-00241,Sports Item 241,Sports & Outdoors,Standard,38.69,64.15,2023-01-19,1026
+PROD-00242,Office Item 242,Office Supplies,Standard,34.59,73.61,2023-12-06,920
+PROD-00243,Beauty Item 243,Beauty,Budget,75.28,189.0,2024-01-02,710
+PROD-00244,Home Item 244,Home & Kitchen,Standard,21.35,32.79,2024-11-08,847
+PROD-00245,Beauty Item 245,Beauty,Standard,31.09,58.41,2024-01-08,50
+PROD-00246,Toys Item 246,Toys & Games,Standard,57.74,104.06,2023-07-02,1025
+PROD-00247,Office Item 247,Office Supplies,Budget,15.08,37.76,2022-12-10,1347
+PROD-00248,Toys Item 248,Toys & Games,Standard,9.7,17.62,2024-11-10,968
+PROD-00249,Clothing Item 249,Clothing,Premium,24.05,46.73,2022-04-03,105
+PROD-00250,Electronics Item 250,Uncategorized,Premium,38.885,126.11,2023-12-05,721
+PROD-00251,Books Item 251,Books,Standard,28.96,60.72,2023-06-27,697
+PROD-00252,Sports Item 252,Sports & Outdoors,Premium,15.02,23.71,2023-08-09,910
+PROD-00253,Beauty Item 253,Beauty,Premium,41.4,62.2,2023-06-28,1301
+PROD-00254,Books Item 254,Books,Standard,30.01,44.43,2024-07-21,12
+PROD-00255,Books Item 255,Books,Premium,33.19,54.83,2023-09-30,761
+PROD-00256,Electronics Item 256,Electronics,Standard,27.84,60.765,2024-02-29,434
+PROD-00257,Sports Item 257,Sports & Outdoors,Standard,33.12,68.82,2022-03-24,875
+PROD-00258,Beauty Item 258,Beauty,Budget,67.68,127.3,2022-08-05,134
+PROD-00259,  Clothing Item 259 ,Clothing,Budget,23.93,60.67,2024-03-17,1327
+PROD-00260,Clothing Item 260,Clothing,Premium,23.47,40.48,2024-12-31,1320
+PROD-00261,Office Item 261,Office Supplies,Standard,14.07,22.33,2023-12-15,667
+PROD-00262,Books Item 262,Books,Premium,81.6,178.76,2022-12-31,1177
+PROD-00263,Clothing Item 263,Clothing,Budget,46.74,71.28,2023-01-27,504
+PROD-00264,Home Item 264,Home & Kitchen,Standard,13.89,22.42,2022-06-06,1261
+PROD-00265,Office Item 265,Office Supplies,Standard,13.02,22.03,2022-06-28,165
+PROD-00266,Electronics Item 266,Electronics,Premium,46.5,112.85,2024-02-12,904
+PROD-00267,Office Item 267,Office Supplies,Standard,23.64,38.91,2023-02-01,776
+PROD-00268,Electronics Item 268,Electronics,Standard,59.84,148.14,2022-01-06,1214
+PROD-00269,Beauty Item 269,Uncategorized,Budget,36.86,91.09,2022-11-14,898
+PROD-00270,Clothing Item 270,Clothing,Standard,12.76,23.1,2023-04-03,1401
+PROD-00271,Toys Item 271,Toys & Games,Budget,18.69,32.18,2023-07-10,963
+PROD-00272,Books Item 272,Books,Budget,11.44,21.64,2023-02-25,1302
+PROD-00273,Books Item 273,Books,Standard,7.47,18.96,2024-03-10,1427
+PROD-00274,  Sports Item 274 ,Uncategorized,Budget,79.34,124.42,2024-11-01,855
+PROD-00275,Clothing Item 275,Clothing,Standard,29.28,69.1,2022-07-05,1434
+PROD-00276,Office Item 276,Office Supplies,Standard,58.03,82.81,2024-02-24,628
+PROD-00277,Beauty Item 277,Beauty,Budget,36.45,62.31,2022-04-25,1105
+PROD-00278,Books Item 278,Books,Premium,9.35,22.46,2022-06-16,1266
+PROD-00279,  Toys Item 279 ,Toys & Games,Budget,30.36,52.42,2023-10-14,332
+PROD-00280,Clothing Item 280,Clothing,Budget,29.49,93.27,2024-07-04,1155
+PROD-00281,Electronics Item 281,Electronics,Budget,33.99,70.19,2022-02-26,657
+PROD-00282,Sports Item 282,Sports & Outdoors,Budget,15.44,36.99,2022-05-13,274
+PROD-00283,Toys Item 283,Toys & Games,Premium,35.29,77.57,2024-01-29,652
+PROD-00284,  Office Item 284 ,Office Supplies,Standard,54.27,135.53,2022-05-08,286
+PROD-00285,Books Item 285,Books,Standard,8.61,12.54,2024-01-23,1101
+PROD-00286,Office Item 286,Office Supplies,Standard,12.51,28.59,2023-10-20,766
+PROD-00287,Clothing Item 287,Clothing,Budget,33.79,63.09,2022-12-16,851
+PROD-00288,Clothing Item 288,Clothing,Premium,18.04,32.96,2022-03-13,1015
+PROD-00289,Sports Item 289,Sports & Outdoors,Standard,15.46,1524.0,2023-03-06,223
+PROD-00290,Sports Item 290,Sports & Outdoors,Standard,38.69,142.52,2023-09-21,223
+PROD-00291,  Home Item 291 ,Home & Kitchen,Budget,16.79,28.79,2023-04-29,535
+PROD-00292,Beauty Item 292,Beauty,Budget,46.16,67.47,2022-12-20,413
+PROD-00293,Home Item 293,Home & Kitchen,Standard,119.57,278.01,2024-11-23,114
+PROD-00294,Home Item 294,Home & Kitchen,Standard,28.19,42.01,2023-12-13,653
+PROD-00295,Office Item 295,Office Supplies,Premium,29.33,56.37,2022-07-28,784
+PROD-00296,Home Item 296,Home & Kitchen,Budget,82.36,196.26,2024-08-10,552
+PROD-00297,Sports Item 297,Sports & Outdoors,Standard,44.36,93.52,2022-07-30,579
+PROD-00298,Home Item 298,Home & Kitchen,Budget,53.96,81.47,2024-04-23,411
+PROD-00299,Home Item 299,Home & Kitchen,Standard,28.59,58.62,2022-04-23,315
+PROD-00300,Sports Item 300,Sports & Outdoors,Premium,44.05,100.38,2024-08-09,525
