@@ -366,19 +366,20 @@ def update_dashboard(cats, regs, chs, year):
     # Segments (RFM)
     seg_df = (
         df.drop_duplicates("customer_id")
-        .merge(rfm[["customer_id", "segment", "clv", "revenue"]], on="customer_id", how="left")
+        .merge(rfm[["customer_id", "segment", "clv", "revenue"]], on="customer_id", how="left",
+               suffixes=("_fact", "_rfm"))
     )
     seg_summary = (
-        seg_df.groupby("segment", as_index=False)
+        seg_df.groupby("segment_rfm", as_index=False)
         .agg(customers=("customer_id", "count"),
-             revenue=("revenue_y", "sum"),
+             revenue=("revenue", "sum"),
              avg_clv=("clv", "mean"))
         .sort_values("revenue", ascending=False)
     )
     fig_seg = go.Figure(data=[
-        go.Bar(name="Customers", x=seg_summary["segment"], y=seg_summary["customers"],
+        go.Bar(name="Customers", x=seg_summary["segment_rfm"], y=seg_summary["customers"],
                marker_color=COLOR_NEUTRAL, yaxis="y", offsetgroup=1),
-        go.Bar(name="Revenue", x=seg_summary["segment"], y=seg_summary["revenue"],
+        go.Bar(name="Revenue", x=seg_summary["segment_rfm"], y=seg_summary["revenue"],
                marker_color=COLOR_REVENUE, yaxis="y2", offsetgroup=2),
     ])
     fig_seg.update_layout(
